@@ -1,0 +1,14 @@
+**Detalhes sobre o login de funcionarios** 
+
+Username: logan
+Password: password
+
+Username: christine
+Password: password
+
+
+**ADetalhes sobre o login de admin**
+
+Username: admin
+Password: codeastro
+
